@@ -1,0 +1,23 @@
+Django==3.1
+djangorestframework==3.11.1
+djangorestframework-simplejwt==4.4.0
+
+
+# development tools
+isort[requirements]==4.3.21
+flake8==3.7.8
+autopep8==1.4.4
+
+asgiref==3.2.10
+certifi==2020.6.20
+chardet==3.0.4
+httpie==2.2.0
+idna==2.10
+pkg-resources==0.0.0
+psycopg2==2.8.5
+Pygments==2.6.1
+PyJWT==1.7.1
+pytz==2020.1
+requests==2.24.0
+sqlparse==0.3.1
+urllib3==1.25.10

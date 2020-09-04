@@ -1,0 +1,7 @@
+.idea/
+venv/
+*.pyc
+settings_local.py
+environment/
+*.env
+.vscode/
